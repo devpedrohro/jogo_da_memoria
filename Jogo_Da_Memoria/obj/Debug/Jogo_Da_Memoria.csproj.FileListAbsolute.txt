@@ -1,0 +1,9 @@
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\bin\Debug\Jogo_Da_Memoria.exe.config
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\bin\Debug\Jogo_Da_Memoria.exe
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\bin\Debug\Jogo_Da_Memoria.pdb
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.csprojAssemblyReference.cache
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.Form1.resources
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.Properties.Resources.resources
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.csproj.GenerateResource.cache
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.exe
+C:\Users\Competidor\source\repos\Jogo_Da_Memoria\Jogo_Da_Memoria\obj\Debug\Jogo_Da_Memoria.pdb
